@@ -1,0 +1,24 @@
+{
+  "name": "NodeJs-Express-App",
+  "version": "1.0.0",
+  "description": "Hello world example using Node.js with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareeshcs33/NodeJs-Express-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hareeshcs33/NodeJs-Express-App/issues"
+  },
+  "homepage": "https://github.com/hareeshcs33/NodeJs-Express-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  }
+}
